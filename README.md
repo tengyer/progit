@@ -1,4 +1,6 @@
 # Pro Git, 1st Edition
+> my profile test
+> hello world!
 
 This is the source for the 1st edition of the Pro Git book. The second edition has since been released and is what will be maintained and published going forward. Please suggest any changes to that version instead. 
 
