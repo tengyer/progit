@@ -1,1 +1,1 @@
-test switch branch on master;
+test switch branch on master  -- hotfix;
